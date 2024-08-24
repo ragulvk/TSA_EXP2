@@ -1,6 +1,5 @@
-### Developed by: Syed Abdul Wasih H
-### Register Number: 212221240057
-### Date:
+### Developed by: Ragul VK
+### Register Number: 212221240043
 
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ### AIM:
